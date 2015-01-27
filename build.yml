@@ -1,5 +1,5 @@
 ---
-image: docker:///ruby#2.1
+image: docker:///tracker/cf-tracker#stable
 
 run:
   path: concourse-test/scripts/ci.sh
