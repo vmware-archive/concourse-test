@@ -1,6 +1,6 @@
 ---
-#image: docker:///tracker/tracker-pcf#stable
-image: docker:///busybox
+image: docker:///tracker/tracker-pcf#stable
+#image: docker:///busybox
 
 run:
   path: concourse-test/scripts/ci.sh
