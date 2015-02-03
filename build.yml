@@ -1,5 +1,5 @@
 ---
-image: docker:///tracker/tracker-pcf#stable
+image: docker:///tracker/tracker-pcf-public#stable
 #image: docker:///busybox
 
 run:
