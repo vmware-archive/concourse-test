@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi 2
+=======
+hi
+hi2
+>>>>>>> 33a2bfff5882effdb723d2b26d6c5d4119f8b1df
